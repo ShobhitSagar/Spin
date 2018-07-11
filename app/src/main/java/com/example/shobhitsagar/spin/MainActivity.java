@@ -43,6 +43,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     public void msg(View view) {
-        txt.setText("Tu PAGAL hai kya!!");
+        
     }
 }
